@@ -1,0 +1,6 @@
+applications:
+   - name: ecad013p1
+     random-route: true
+     path: target/ECAD_Pract_1.war
+     memory: 512M
+     instances: 1
